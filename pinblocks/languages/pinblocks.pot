@@ -1,0 +1,142 @@
+# Copyright (C) 2019 milukove
+# This file is distributed under the same license as the Pinblocks plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Pinblocks 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/pinblocks\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-01-15T05:56:06+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.1.0\n"
+"X-Domain: pinblocks\n"
+
+#. Plugin Name of the plugin
+msgid "Pinblocks"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "http://pinblocks.milukove.ru"
+msgstr ""
+
+#. Description of the plugin
+msgid "Pinblocks — is a Gutenberg plugin created to add Pinterest Widgets to Wordpress posts and pages via Gutenberg editor blocks."
+msgstr ""
+
+#. Author of the plugin
+msgid "milukove"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://milukove.ru/"
+msgstr ""
+
+#: includes/blocks-category.php:20
+msgid "Pinterest Widgets"
+msgstr ""
+
+#: src/profilewidget/profilewidget.js:25
+msgid "Profile Widget"
+msgstr ""
+
+#: src/profilewidget/profilewidget.js:71
+#: src/boardwidget/boardwidget.js:71
+msgid "Image width"
+msgstr ""
+
+#: src/profilewidget/profilewidget.js:81
+#: src/boardwidget/boardwidget.js:81
+msgid "Board height"
+msgstr ""
+
+#: src/profilewidget/profilewidget.js:91
+#: src/boardwidget/boardwidget.js:91
+msgid "Board width"
+msgstr ""
+
+#: src/profilewidget/profilewidget.js:118
+#: src/boardwidget/boardwidget.js:118
+#: src/pinwidget/pinwidget.js:104
+msgid "Loading"
+msgstr ""
+
+#: src/profilewidget/profilewidget.js:131
+#: src/followwidget/followwidget.js:96
+#: src/followwidget/followwidget.js:124
+msgid "Pinterest user URL"
+msgstr ""
+
+#: src/profilewidget/profilewidget.js:153
+msgid "Pinterest Profile Widget"
+msgstr ""
+
+#: src/profilewidget/profilewidget.js:159
+msgid "Copy Pinterest user URL here"
+msgstr ""
+
+#: src/followwidget/followwidget.js:25
+msgid "Follow Widget"
+msgstr ""
+
+#: src/followwidget/followwidget.js:62
+msgid "Button text"
+msgstr ""
+
+#: src/followwidget/followwidget.js:118
+msgid "Pinterest Follow Widget"
+msgstr ""
+
+#: src/boardwidget/boardwidget.js:25
+msgid "Board Widget"
+msgstr ""
+
+#: src/boardwidget/boardwidget.js:131
+msgid "Board URL"
+msgstr ""
+
+#: src/boardwidget/boardwidget.js:153
+msgid "Pinterest Board Widget"
+msgstr ""
+
+#: src/boardwidget/boardwidget.js:159
+msgid "Copy your board URL here"
+msgstr ""
+
+#: src/pinwidget/pinwidget.js:25
+msgid "Pin Widget"
+msgstr ""
+
+#: src/pinwidget/pinwidget.js:65
+msgid "Pin size"
+msgstr ""
+
+#: src/pinwidget/pinwidget.js:68
+msgid "Small"
+msgstr ""
+
+#: src/pinwidget/pinwidget.js:69
+msgid "Medium"
+msgstr ""
+
+#: src/pinwidget/pinwidget.js:70
+msgid "Large"
+msgstr ""
+
+#: src/pinwidget/pinwidget.js:80
+msgid "Hide description"
+msgstr ""
+
+#: src/pinwidget/pinwidget.js:117
+msgid "Your pin URL"
+msgstr ""
+
+#: src/pinwidget/pinwidget.js:139
+msgid "Pinterest Pin Widget"
+msgstr ""
+
+#: src/pinwidget/pinwidget.js:145
+msgid "Copy your pin URL here"
+msgstr ""
