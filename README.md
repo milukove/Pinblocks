@@ -168,7 +168,7 @@ As long as widgets initialized by Pinterest pinit script, all widgets comes with
 
 Public view of widgets will be localized by pinit script depending on users location and language settings.
 
-### [Full plugin documentation](http://pinblocks.milukove.ru/documentation/index.html)
+### [Full plugin documentation](http://pinblocks.milukove.ru/docs/documentation/)
 
 ## Support
 
