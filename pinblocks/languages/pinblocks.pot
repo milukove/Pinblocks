@@ -1,21 +1,21 @@
-# Copyright (C) 2019 milukove
-# This file is distributed under the same license as the Pinblocks plugin.
+# Copyright (C) 2019 Egor Milyukov
+# This file is distributed under the same license as the Pinblocks — Gutenberg blocks with Pinterest widgets plugin.
 msgid ""
 msgstr ""
-"Project-Id-Version: Pinblocks 1.0.0\n"
+"Project-Id-Version: Pinblocks — Gutenberg blocks with Pinterest widgets 1.0.1\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/pinblocks\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2019-01-15T05:56:06+00:00\n"
+"POT-Creation-Date: 2019-02-15T01:01:37+00:00\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "X-Generator: WP-CLI 2.1.0\n"
 "X-Domain: pinblocks\n"
 
 #. Plugin Name of the plugin
-msgid "Pinblocks"
+msgid "Pinblocks — Gutenberg blocks with Pinterest widgets"
 msgstr ""
 
 #. Plugin URI of the plugin
@@ -23,11 +23,11 @@ msgid "http://pinblocks.milukove.ru"
 msgstr ""
 
 #. Description of the plugin
-msgid "Pinblocks — is a Gutenberg plugin created to add Pinterest Widgets to Wordpress posts and pages via Gutenberg editor blocks."
+msgid "Pinblocks — is a WordPress plugin created to add Pinterest Widgets to your posts and pages by Gutenberg editor blocks."
 msgstr ""
 
 #. Author of the plugin
-msgid "milukove"
+msgid "Egor Milyukov"
 msgstr ""
 
 #. Author URI of the plugin

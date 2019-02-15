@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the Pinblocks package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2019-01-15 06:01:03+0000\n"
+"PO-Revision-Date: 2019-02-15 01:06:52+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -11,124 +11,124 @@ msgstr ""
 "Language: en_US\n"
 "Project-Id-Version: Pinblocks\n"
 
-#. Plugin Name of the plugin
-msgid "Pinblocks"
-msgstr "Pinblocks"
-
-#. Plugin URI of the plugin
-msgid "http://pinblocks.milukove.ru"
-msgstr "http://pinblocks.milukove.ru"
-
-#. Description of the plugin
-msgid "Pinblocks — is a Gutenberg plugin created to add Pinterest Widgets to Wordpress posts and pages via Gutenberg editor blocks."
-msgstr "Pinblocks — is a Gutenberg plugin created to add Pinterest Widgets to Wordpress posts and pages via Gutenberg editor blocks."
-
 #. Author of the plugin
-msgid "milukove"
-msgstr "milukove"
+msgid "Egor Milyukov"
+msgstr "Egor Milyukov"
 
-#. Author URI of the plugin
-msgid "http://milukove.ru/"
-msgstr "http://milukove.ru/"
+#. Plugin Name of the plugin
+msgid "Pinblocks — Gutenberg blocks with Pinterest widgets"
+msgstr "Pinblocks — Gutenberg blocks with Pinterest widgets"
 
-#: includes/blocks-category.php:20
-msgid "Pinterest Widgets"
-msgstr "Pinterest Widgets"
+#: src/pinwidget/pinwidget.js:145
+msgid "Copy your pin URL here"
+msgstr "Copy your pin URL here"
 
-#: src/profilewidget/profilewidget.js:25
-msgid "Profile Widget"
-msgstr "Profile Widget"
+#: src/pinwidget/pinwidget.js:139
+msgid "Pinterest Pin Widget"
+msgstr "Pinterest Pin Widget"
 
-#: src/profilewidget/profilewidget.js:71 src/boardwidget/boardwidget.js:71
-msgid "Image width"
-msgstr "Image width"
+#: src/pinwidget/pinwidget.js:117
+msgid "Your pin URL"
+msgstr "Your pin URL"
 
-#: src/profilewidget/profilewidget.js:81 src/boardwidget/boardwidget.js:81
-msgid "Board height"
-msgstr "Board height"
+#: src/pinwidget/pinwidget.js:80
+msgid "Hide description"
+msgstr "Hide description"
 
-#: src/profilewidget/profilewidget.js:91 src/boardwidget/boardwidget.js:91
-msgid "Board width"
-msgstr "Board width"
+#: src/pinwidget/pinwidget.js:70
+msgid "Large"
+msgstr "Large"
 
-#: src/profilewidget/profilewidget.js:118 src/boardwidget/boardwidget.js:118
-#: src/pinwidget/pinwidget.js:104
-msgid "Loading"
-msgstr "Loading"
+#: src/pinwidget/pinwidget.js:69
+msgid "Medium"
+msgstr "Medium"
+
+#: src/pinwidget/pinwidget.js:68
+msgid "Small"
+msgstr "Small"
+
+#: src/pinwidget/pinwidget.js:65
+msgid "Pin size"
+msgstr "Pin size"
+
+#: src/pinwidget/pinwidget.js:25
+msgid "Pin Widget"
+msgstr "Pin Widget"
+
+#: src/boardwidget/boardwidget.js:159
+msgid "Copy your board URL here"
+msgstr "Copy your board URL here"
+
+#: src/boardwidget/boardwidget.js:153
+msgid "Pinterest Board Widget"
+msgstr "Pinterest Board Widget"
+
+#: src/boardwidget/boardwidget.js:131
+msgid "Board URL"
+msgstr "Board URL"
+
+#: src/boardwidget/boardwidget.js:25
+msgid "Board Widget"
+msgstr "Board Widget"
+
+#: src/followwidget/followwidget.js:118
+msgid "Pinterest Follow Widget"
+msgstr "Pinterest Follow Widget"
+
+#: src/followwidget/followwidget.js:62
+msgid "Button text"
+msgstr "Button text"
+
+#: src/followwidget/followwidget.js:25
+msgid "Follow Widget"
+msgstr "Follow Widget"
+
+#: src/profilewidget/profilewidget.js:159
+msgid "Copy Pinterest user URL here"
+msgstr "Copy Pinterest user URL here"
+
+#: src/profilewidget/profilewidget.js:153
+msgid "Pinterest Profile Widget"
+msgstr "Pinterest Profile Widget"
 
 #: src/profilewidget/profilewidget.js:131 src/followwidget/followwidget.js:96
 #: src/followwidget/followwidget.js:124
 msgid "Pinterest user URL"
 msgstr "Pinterest user URL"
 
-#: src/profilewidget/profilewidget.js:153
-msgid "Pinterest Profile Widget"
-msgstr "Pinterest Profile Widget"
+#: src/profilewidget/profilewidget.js:118 src/boardwidget/boardwidget.js:118
+#: src/pinwidget/pinwidget.js:104
+msgid "Loading"
+msgstr "Loading"
 
-#: src/profilewidget/profilewidget.js:159
-msgid "Copy Pinterest user URL here"
-msgstr "Copy Pinterest user URL here"
+#: src/profilewidget/profilewidget.js:91 src/boardwidget/boardwidget.js:91
+msgid "Board width"
+msgstr "Board width"
 
-#: src/followwidget/followwidget.js:25
-msgid "Follow Widget"
-msgstr "Follow Widget"
+#: src/profilewidget/profilewidget.js:81 src/boardwidget/boardwidget.js:81
+msgid "Board height"
+msgstr "Board height"
 
-#: src/followwidget/followwidget.js:62
-msgid "Button text"
-msgstr "Button text"
+#: src/profilewidget/profilewidget.js:71 src/boardwidget/boardwidget.js:71
+msgid "Image width"
+msgstr "Image width"
 
-#: src/followwidget/followwidget.js:118
-msgid "Pinterest Follow Widget"
-msgstr "Pinterest Follow Widget"
+#: src/profilewidget/profilewidget.js:25
+msgid "Profile Widget"
+msgstr "Profile Widget"
 
-#: src/boardwidget/boardwidget.js:25
-msgid "Board Widget"
-msgstr "Board Widget"
+#: includes/blocks-category.php:20
+msgid "Pinterest Widgets"
+msgstr "Pinterest Widgets"
 
-#: src/boardwidget/boardwidget.js:131
-msgid "Board URL"
-msgstr "Board URL"
+#. Author URI of the plugin
+msgid "http://milukove.ru/"
+msgstr "http://milukove.ru/"
 
-#: src/boardwidget/boardwidget.js:153
-msgid "Pinterest Board Widget"
-msgstr "Pinterest Board Widget"
+#. Description of the plugin
+msgid "Pinblocks — is a WordPress plugin created to add Pinterest Widgets to your posts and pages by Gutenberg editor blocks."
+msgstr "Pinblocks — is a WordPress plugin created to add Pinterest Widgets to your posts and pages by Gutenberg editor blocks."
 
-#: src/boardwidget/boardwidget.js:159
-msgid "Copy your board URL here"
-msgstr "Copy your board URL here"
-
-#: src/pinwidget/pinwidget.js:25
-msgid "Pin Widget"
-msgstr "Pin Widget"
-
-#: src/pinwidget/pinwidget.js:65
-msgid "Pin size"
-msgstr "Pin size"
-
-#: src/pinwidget/pinwidget.js:68
-msgid "Small"
-msgstr "Small"
-
-#: src/pinwidget/pinwidget.js:69
-msgid "Medium"
-msgstr "Medium"
-
-#: src/pinwidget/pinwidget.js:70
-msgid "Large"
-msgstr "Large"
-
-#: src/pinwidget/pinwidget.js:80
-msgid "Hide description"
-msgstr "Hide description"
-
-#: src/pinwidget/pinwidget.js:117
-msgid "Your pin URL"
-msgstr "Your pin URL"
-
-#: src/pinwidget/pinwidget.js:139
-msgid "Pinterest Pin Widget"
-msgstr "Pinterest Pin Widget"
-
-#: src/pinwidget/pinwidget.js:145
-msgid "Copy your pin URL here"
-msgstr "Copy your pin URL here"
+#. Plugin URI of the plugin
+msgid "http://pinblocks.milukove.ru"
+msgstr "http://pinblocks.milukove.ru"

@@ -1,4 +1,4 @@
-![Pinblocks](http://pinblocks.milukove.ru/wp-content/uploads/2019/02/pinblocks-horizont-small.png)
+![Pinblocks](https://ps.w.org/pinblocks/assets/banner-772x250.jpg)
 
 [![](https://img.shields.io/wordpress/plugin/v/pinblocks.svg?label=Plugin%20version&style=flat)](https://wordpress.org/plugins/pinblocks/)
 [![](https://img.shields.io/wordpress/plugin/dt/pinblocks.svg?label=Downloads&style=flat)](https://wordpress.org/plugins/pinblocks/)
@@ -9,7 +9,7 @@
 
 # Pinblocks — Gutenberg blocks with Pinterest widgets
 
-**Version 1.0.0**
+**Version 1.0.1**
 
 ## Description
 
@@ -178,6 +178,8 @@ You can get help with using Pinblocks plugin at [Wordpress.org support forum](ht
 
 * License: GPLv2 or later
 * License URI: https://www.gnu.org/licenses/gpl-2.0.html
+
+[Background photo for banner created by freepik - www.freepik.com](https://www.freepik.com/free-photos-vectors/background)
 
 ## Author
 

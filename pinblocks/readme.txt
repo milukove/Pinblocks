@@ -3,8 +3,8 @@ Contributors: milukove
 Donate link: https://money.yandex.ru/to/410011017976988
 Tags: gutenberg, widget, pinterest, block, image
 Requires at least: 5.0.0
-Tested up to: 5.0.3
-Stable tag: 1.0.0
+Tested up to: 5.1
+Stable tag: 1.0.1
 Requires PHP: 5.3
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -55,8 +55,13 @@ Or
 
 == Changelog ==
 
+= 1.0.1 =
+
+* Fixed missing translation strings
+
 = 1.0 =
- First Release
+
+First Release
 
 == Documentation ==
 
@@ -138,3 +143,5 @@ As long as widgets initialized by Pinterest pinit script, all widgets comes with
 Public view of widgets will be localized by pinit script depending on users location and language settings.
 
 **[Full plugin documentation](http://pinblocks.milukove.ru/documentation/index.html)**
+
+[Background photo for banner created by freepik - www.freepik.com](https://www.freepik.com/free-photos-vectors/background)

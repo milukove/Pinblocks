@@ -8,5 +8,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Save Button Widget Block
 - Pin Widget Block alignment toolbar
 
+## [1.0.1]
+
+### Fixed
+
+* Missing translation strings
+
 ## [1.0]
 First release
