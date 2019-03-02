@@ -4,7 +4,7 @@ Donate link: https://money.yandex.ru/to/410011017976988
 Tags: gutenberg, widget, pinterest, block, image
 Requires at least: 5.0.0
 Tested up to: 5.1
-Stable tag: 1.0.1
+Stable tag: 1.0.2
 Requires PHP: 5.3
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -54,6 +54,10 @@ Or
 4. Profile Widget Block — insert Pinterest profile to your posts and pages.
 
 == Changelog ==
+
+= 1.0.2 =
+
+* Security fix
 
 = 1.0.1 =
 

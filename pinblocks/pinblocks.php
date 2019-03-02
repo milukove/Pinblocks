@@ -5,7 +5,7 @@
  * Description: Pinblocks — is a WordPress plugin created to add Pinterest Widgets to your posts and pages by Gutenberg editor blocks.
  * Author: Egor Milyukov
  * Author URI: http://milukove.ru/
- * Version: 1.0.1
+ * Version: 1.0.2
  * Text Domain: pinblocks
  * Domain Path: /languages
  */
@@ -30,6 +30,6 @@ add_action( 'plugins_loaded', function () {
  * @since 1.0.0
  */
 require_once plugin_dir_path( __FILE__ ) . 'includes/freemius.php';
-require_once plugin_dir_path( __FILE__ ) . 'src/init.php';
 require_once plugin_dir_path( __FILE__ ) . 'includes/blocks-category.php';
+require_once plugin_dir_path( __FILE__ ) . 'src/init.php';
 require_once plugin_dir_path( __FILE__ ) . 'includes/server-side-render.php';

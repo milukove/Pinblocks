@@ -7,7 +7,7 @@ if ( ! function_exists( 'pinblocks_fs' ) ) {
 
         if ( ! isset( $pinblocks_fs ) ) {
             // Include Freemius SDK.
-            require_once dirname(__FILE__) . '/freemius/start.php';
+            require_once dirname(__FILE__) . '/../freemius/start.php';
 
             $pinblocks_fs = fs_dynamic_init( array(
                 'id'                  => '3299',

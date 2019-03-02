@@ -9,8 +9,6 @@
 
 # Pinblocks — Gutenberg blocks with Pinterest widgets
 
-**Version 1.0.1**
-
 ## Description
 
 Pinblocks — is a WordPress plugin created to add Pinterest Widgets to your posts and pages by Gutenberg editor blocks.
